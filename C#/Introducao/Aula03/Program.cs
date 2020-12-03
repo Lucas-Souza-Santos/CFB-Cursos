@@ -25,7 +25,7 @@ namespace aula03{
             int num1 = 10, num2 = 12;
 
             Console.Write(aux);
-            Console.Write("A multiplicação de " + num1 + " mais " + num2 + " é igual a: " + num1 * num2);
+            Console.Write("A multiplicação de " + num1 + " mais " + num2 + " é igual a: " + num1 *);
 
         }
     }
