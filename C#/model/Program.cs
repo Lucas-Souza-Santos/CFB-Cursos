@@ -1,7 +1,5 @@
 using System;
 
-namespace aula03{
-
     class Program{
 
         static void Main(string[] args){
@@ -9,6 +7,4 @@ namespace aula03{
             Console.Write("Tudo certo");
 
         }
-    }
-
 }
