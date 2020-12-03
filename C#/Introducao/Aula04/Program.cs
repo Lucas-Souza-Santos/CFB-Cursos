@@ -7,6 +7,8 @@ namespace aula03{
         static void Main(string[] args){
 
             Console.Write("Tudo certo");
+            Console.
+            
 
         }
     }
