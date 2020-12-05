@@ -4,15 +4,18 @@ using System;
 * Canal do Youtube: CFB-Cursos-Professor-Bruno
 * Assunto da Aula: Escopo de variável            
 */ 
+    // static int num_global = 0;
+
     class Aula04{
 
         static void Main(){
-            int num = 0;   
+            int num_local_main = 0;  // variável local
             
         }
-        
+
         void testa(){
-            Console.WriteLine(num);
+            int num_local_testa = 0; // variável local
+
         }
 }
 
