@@ -4,8 +4,6 @@ using System;
 * Canal do Youtube: CFB-Cursos-Professor-Bruno
 * Assunto da Aula: Escopo de variável            
 */ 
-    // static int num_global = 0;
-
     class Aula04{
 
         static void Main(){
