@@ -8,7 +8,7 @@ int main(){
 
         /*Preenchendo o Vetor*/
         cout << "Declare os valores das posicoes do vetor: \n" << endl;
-        for(i = 0; i < sizeof(vetor)/4;i++2){
+        for(i = 0; i < sizeof(vetor)/4;i++){
             cin >> vetor[i];
         }
         /*Imprimindo o vetor*/
